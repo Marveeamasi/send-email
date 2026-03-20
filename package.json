@@ -1,0 +1,11 @@
+{
+  "name": "surer-email-server",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^8.0.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
